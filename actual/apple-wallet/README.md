@@ -14,7 +14,7 @@ Since the transaction needs to be posted to some server, this approach will make
 
 ### Create the Google AppScript Web App
 
-1. Create a new [Google Spreadshit](https://docs.google.com/spreadsheets/) or open an existing one
+1. Create a new [Google Spreadsheet](https://docs.google.com/spreadsheets/) or open an existing one
 1. In the tool bar, click Extensions > Apps Script, that will open a new App Script project
 1. Name it however you want, and copy/paste the code from [Code.js](./Code.js) into the AppScript project.
 1. Change the configuration values using yours (account names, categories, actual api configuration parameters, account ids, category ids)
